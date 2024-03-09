@@ -8,3 +8,8 @@
 ## Stats
 
 ![Bkamp Stats](https://github-readme-stats.vercel.app/api?username=bkampdev&hide=contribs,prs&show_icons=true&theme=tokyonight&)
+
+## What i do?
+<p>🎨-Graphic Design</p>
+<p>🎥-Motion Design</p>
+<p>💻-Programing</p>
