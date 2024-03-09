@@ -3,7 +3,7 @@
 # Future fullstack developer
 <p>🚩-Espirito-Santo</p>
 <p>🎓-Graduating Computer Science(UVV)</p>
-<p>🧡-Owner <a style="text-decoration: none; color: orange;" href="https://line-easy.com">Line Easy</a><p>
+<p>🧡-Owner <a taget="_blank" style="text-decoration: none; color: orange;" href="https://line-easy.com">Line Easy</a><p>
 
 ## Stats
 
@@ -13,5 +13,3 @@
 <p>🎨-Graphic Design</p>
 <p>🎥-Motion Design</p>
 <p>💻-Programing</p>
-
-<a class="button" href="https://bkamp.com.br" style="background-color: black; border-radius:5px; color:white; text-align: center; display: flex; justify-content: center;padding:10px;" >Click here!</a>
