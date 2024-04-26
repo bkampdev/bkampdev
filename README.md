@@ -1,7 +1,7 @@
 ![bkamp logo](https://i.imgur.com/RqzvxYI.png)
 
 # Future fullstack developer
-<p>🚩-Espirito-Santo</p>
+<p>🇧🇷-Espirito-Santo</p>
 <p>🎓-Graduating Computer Science(UVV)</p>
 <p>🧡-Owner <a target="_blank" style="text-decoration: none; color: orange;" href="https://line-easy.com">Line Easy</a><p>
 
