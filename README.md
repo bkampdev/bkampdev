@@ -3,7 +3,7 @@
 # Future fullstack developer
 <p>🇧🇷-Espirito-Santo</p>
 <p>🎓-Graduating Computer Science(UVV) 1/8</p>
-<p>🧡-Owner <a target="_blank" style="text-decoration: none; color: orange;" href="https://line-easy.com">Line Easy</a><p>
+<p>💜-Owner <a target="_blank" style="text-decoration: none; color: pruple;" href="https://bkamp.com.br">bkamp</a><p>
 
 ## Stats
 
