@@ -7,7 +7,7 @@
 
 ## Stats
 
-![Bkamp Stats](https://github-readme-stats.vercel.app/api?username=bkampdev&hide=contribs,prs&show_icons=true&theme=midnight-purple&rank_icon=github)
+![Bkamp Stats](https://github-readme-stats.vercel.app/api?username=bkampdev&hide=contribs,prs&show_icons=true&theme=midnight-purple&rank_icon=github&hide_border=true)
 
 ## What i do?
 <p>🎨-Graphic Design</p>
