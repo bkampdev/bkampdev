@@ -2,8 +2,7 @@
 
 # Future fullstack developer
 <p>🇧🇷-Espirito-Santo</p>
-<p>🎓-Graduating Computer Science(UVV) 2/8</p>
-<p>🎓-Graduating Design(UVV) 1/7</p>
+<p>🎓-Graduating Computer Science(FIAP) 1/4</p>
 <p>💜-Owner <a target="_blank" style="text-decoration: none; color: pruple;" href="https://bkamp.com.br">bkamp</a><p>
 
 ## Stats
