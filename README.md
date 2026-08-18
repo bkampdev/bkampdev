@@ -3,13 +3,14 @@
 # Future fullstack developer
 <p>🇧🇷-Espirito-Santo</p>
 <p>🎓-Graduating Computer Science(FIAP) 1/4</p>
-<p>💜-Owner <a target="_blank" style="text-decoration: none; color: pruple;" href="https://bkamp.com.br">bkamp</a><p>
+<p>💜-Owner Bkamp
+<p>🧡-CTO/CMO Bremenkamp Madeiras</p>
 
 ## Stats
 
-![Bkamp Stats](https://github-readme-stats.vercel.app/api?username=bkampdev&hide=contribs,prs&show_icons=true&theme=midnight-purple&rank_icon=github&hide_border=true)
+![Bkamp Stats](https://github-stats-extended.vercel.app/api?username=bkampdev&hide=contribs,prs&show_icons=true&theme=midnight-purple&rank_icon=github&hide_border=true)
 
 ## What i do?
 <p>🎨-Graphic Design</p>
 <p>🎥-Motion Design</p>
-<p>💻-Programing</p>
+<p>💻-Developing</p>
